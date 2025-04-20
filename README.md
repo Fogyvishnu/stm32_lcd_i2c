@@ -35,3 +35,8 @@ This is a lightweight and portable library to interface HD44780-compatible LCD m
 2. Include lcd_i2c_hal.h in your main.c.
 
 3. Add and configure an I2C peripheral using CubeMX (e.g., hi2c1).
+
+📄 License
+
+This project is open-source under the MIT License.
+Feel free to use it in commercial or personal projects.
