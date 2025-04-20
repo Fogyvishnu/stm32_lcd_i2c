@@ -4,6 +4,7 @@ This is a lightweight and portable library to interface HD44780-compatible LCD m
 
 
 📟 Features
+
 ✅ 4-bit mode LCD communication via I2C (PCF8574)
 
 ✅ Compatible with 16x2, 20x4, etc.
