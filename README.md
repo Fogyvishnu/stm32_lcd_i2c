@@ -17,3 +17,21 @@ This is a lightweight and portable library to interface HD44780-compatible LCD m
 
 ✅ Lightweight, minimal dependencies
 
+
+🚀 Getting Started
+
+✅ Prerequisites
+
+1. STM32CubeIDE / STM32CubeMX
+
+2. Configured I2C peripheral (e.g., I2C1)
+
+3. Compatible LCD I2C backpack (e.g., PCF8574 at address 0x27 or 0x3F)
+
+🔧 Setup
+
+1. Clone or copy the files lcd_i2c_hal.c and lcd_i2c_hal.h into your STM32 project.
+
+2. Include lcd_i2c_hal.h in your main.c.
+
+3. Add and configure an I2C peripheral using CubeMX (e.g., hi2c1).
